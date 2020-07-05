@@ -1,0 +1,35 @@
+.form-controll {
+  margin-bottom: 16px;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.form-input {
+  display: block;
+  padding: 6px 10px;
+  width: 100%;
+  outline: 1px solid lightgray;
+  font: inherit;
+}
+
+.form-invalid {
+  color: red;
+  margin-top: 8px;
+  margin-bottom: 0;
+}
+
+.submit-button {
+  padding: 10px 16px;
+  background-color: lightgray;
+  outline: none;
+  border: none;
+  border-bottom: 2px solid darkgray;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: bold;
+  outline: none;
+  font: inherit;
+}

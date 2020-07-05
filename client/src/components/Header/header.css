@@ -1,0 +1,12 @@
+.app-header {
+  margin-bottom: 40px;
+  padding: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-style: italic;
+  font-size: 2em;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
